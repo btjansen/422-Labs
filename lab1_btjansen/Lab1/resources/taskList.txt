@@ -1,0 +1,20 @@
+dishes
+do the dishes
+1
+20 minutes
+low
+make bed
+make the bed
+2
+5 minutes
+low
+make dinner
+make dinner to eat
+3
+15 minutes
+high
+take out trash
+take the trash cans out to the street
+4
+5 minutes
+medium
